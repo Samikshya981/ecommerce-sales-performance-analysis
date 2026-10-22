@@ -37,8 +37,8 @@ Database: `sales_order_analytics`
   `order_items`                       Products, quantities, and unit
                                       prices within each order
 
-  `payments`                          Payment amounts, dates, and payment
-                                      statuses
+  **`payments`                        Payment amounts, dates, and payment
+                                      statuses**
   -----------------------------------------------------------------------
 
 The sample data includes 11 customers, 10 products, and 16 orders, along
